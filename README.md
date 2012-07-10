@@ -8,4 +8,5 @@ This is a fork of http://www.yiiframework.com/extension/sftp/ with some bugs fix
 New methods:
 
 readFile($remoteFile) - reads and returns remote file contents.
+
 writeFile($remoteFile, $data) - puts $data into remote file.
