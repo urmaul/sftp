@@ -1,4 +1,4 @@
-sftp
+Yii Sftp Component
 ====
 
 Yii component to work with sftp connections.
